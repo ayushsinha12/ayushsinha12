@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-    software developer who has a knack for learning new concepts.<br>
+    software developer who has a knack for learning.<br>
     studying computer science with a focus in AI at <b>northeastern university</b>.
 </p>
 
