@@ -1,5 +1,5 @@
 <h2 align="center">
-  hey, i'm ayush! 🛸
+  hey, i'm ayush!🚀🛸
 </h2>
 
 <p align="center">
