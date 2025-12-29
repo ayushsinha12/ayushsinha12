@@ -4,7 +4,7 @@
 
 <p align="center">
     software developer who has a knack for learning.<br>
-    studying computer science with a focus in AI at <b>Northeastern University</b>.
+    studying computer science with a focus in AI at <b>northeastern university</b>.
 </p>
 
 <p align="center">
